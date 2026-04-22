@@ -12,7 +12,7 @@ Sou Engenheiro Químico e estou em transição para a área de **Análise de Dad
 
 Aqui você encontra uma seleção dos meus trabalhos focados em análise e otimização de dados:
 
-- **[Projeto: Otimização de Torre de Resfriamento (TCC)]((https://github.com/LeonardoBugalho/TCC-Torre-Resfriamento.git))**
+- **[Projeto: Otimização de Torre de Resfriamento (TCC)](https://github.com/LeonardoBugalho/TCC-Torre-Resfriamento.git)**
   - Uma análise técnica de engenharia focada na redução de custos energéticos, utilizando modelagem de dados para otimização de performance industrial.
   - *Ferramentas:* Excel, Análise Estatística, Relatório Técnico, Ansys CFD 
 
